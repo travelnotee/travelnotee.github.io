@@ -1886,7 +1886,7 @@ h1, h2, h3, h4, h5, h6 {
   background-color: #fff;
 }
 
-@media (max-width: 719px) {
+@media only screen and (max-width: 719px) {
   #header {
     height: 76px;
   }
