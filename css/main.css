@@ -1905,13 +1905,13 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 500;
 }
 
-@media (max-width: 960px) {
+@media only screen and (max-width: 719px) {}
   .header-top .menu-top-left, .header-top .menu-top-right {
     display: none;
   }
 }
 
-@media (max-width: 414px) {
+@media only screen and (max-width: 719px) {}
   .header-top .menu-top-middle {
     justify-content: left !important;
   }
@@ -1926,7 +1926,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 500;
 }
 
-@media (max-width: 960px) {
+@media only screen and (max-width: 719px) {}
   .header-top .menu-top-right .tel {
     display: none;
   }
@@ -1944,7 +1944,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-left: 10px;
 }
 
-@media (max-width: 480px) {
+@media only screen and (max-width: 719px) {}
   .header-top .menu-top-right span {
     background-color: #f6214b;
     color: #fff;
@@ -1955,14 +1955,14 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-@media (max-width: 480px) {
+@media only screen and (max-width: 719px) {}
   .header-top .menu-top-right {
     text-align: right;
     margin-top: -26px;
   }
 }
 
-@media (max-width: 673px) {
+@media only screen and (max-width: 719px) {}
   #logo {
     margin-left: 20px;
   }
@@ -1988,7 +1988,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0;
 }
 
-@media (max-width: 768px) {
+@media only screen and (max-width: 719px) {}
   #header #logo h1 {
     font-size: 28px;
   }
