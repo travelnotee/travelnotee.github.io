@@ -1854,12 +1854,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .form-select .nice-select .list .option.selected {
-  color: #fff;
+  color: #f6214b;
   background: transparent;
 }
 
 .form-select .nice-select .list .option:hover {
-  color: #fff;
+  color: #f6214b;
   background: transparent;
 }
 
@@ -1886,7 +1886,7 @@ h1, h2, h3, h4, h5, h6 {
   background-color: #fff;
 }
 
-@media (max-width: 960px) {
+@media (max-width: 719px) {
   #header {
     height: 76px;
   }
