@@ -1854,12 +1854,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .form-select .nice-select .list .option.selected {
-  color: #f6214b;
+  color: #fff;
   background: transparent;
 }
 
 .form-select .nice-select .list .option:hover {
-  color: #f6214b;
+  color: #fff;
   background: transparent;
 }
 
